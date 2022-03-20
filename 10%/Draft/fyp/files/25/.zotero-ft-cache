@@ -1,0 +1,693 @@
+
+Advertisement
+
+    plos.org
+    create account
+    sign in 
+
+PLOS ONE
+
+    Publish
+        Submissions
+            Getting Started
+            Submission Guidelines
+            Figures
+            Tables
+            Supporting Information
+            LaTeX
+            What We Publish
+            Preprints
+            Revising Your Manuscript
+            Submit Now
+            Calls for Papers
+        Policies
+            Best Practices in Research Reporting
+            Human Subjects Research
+            Animal Research
+            Competing Interests
+            Disclosure of Funding Sources
+            Licenses and Copyright
+            Data Availability
+            Complementary Research
+            Materials, Software and Code Sharing
+            Ethical Publishing Practice
+            Authorship
+            Corrections, Expressions of Concern, and Retractions
+        Manuscript Review and Publication
+            Criteria for Publication
+            Editorial and Peer Review Process
+            Editor Center
+            Resources for Editors
+            Guidelines for Reviewers
+            Accepted Manuscripts
+            Comments
+    Submit Your Manuscript
+
+    Discover a faster, simpler path to publishing in a high-quality journal. PLOS ONE promises fair, rigorous peer review, broad scope, and wide readership – a perfect fit for your research every time.
+
+    Learn More Submit Now
+    About
+        Why Publish with PLOS ONE
+        Journal Information
+        Staff Editors
+        Editorial Board
+        Section Editors
+        Advisory Groups
+        Find and Read Articles
+        Publishing Information
+        Publication Fees
+        Press and Media
+        Contact
+    Browse
+    Search Search
+    advanced search
+
+    59
+    Save
+
+    Total Mendeley and Citeulike bookmarks.
+    20
+    Citation
+
+    Paper's citation count computed by Dimensions.
+    7,566
+    View
+
+    PLOS views and downloads.
+    3
+    Share
+
+    Sum of Facebook, Twitter, Reddit and Wikipedia activity.
+
+Open Access
+
+Peer-reviewed
+
+Research Article
+A comprehensive study capturing vision loss burden in Pakistan (1990-2025): Findings from the Global Burden of Disease (GBD) 2017 study
+
+    Bilal Hassan ,
+    Ramsha Ahmed ,
+    Bo Li ,
+    Ayesha Noor ,
+    Zahid ul Hassan
+
+    Published: May 3, 2019
+    https://doi.org/10.1371/journal.pone.0216492
+
+    Article
+    Authors
+    Metrics
+    Comments
+    Media Coverage
+
+    Abstract
+    Introduction
+    Previous work
+    Methods
+    Results
+    Discussion
+    Supporting information
+    Acknowledgments
+    References 
+
+    Reader Comments
+    Figures
+
+Abstract
+
+This study aims to provide estimates, trends and projections of vision loss burden in Pakistan from 1990 to 2025. Global Burden of Diseases, Injuries, and Risk Factors Study (GBD 2017) was used to observe the vision loss burden in terms of prevalence and Years Lived with Disability (YLDs). As of 2017, out of 207.7 million people in Pakistan, an estimated 1.12 million (95% Uncertainty Interval [UI] 1.07–1.19) were blind (Visual Acuity [VA] <3/60), 1.09 million [0.93–1.24] people had severe vision loss (3/60≤VA<6/60) and 6.79 million [6.00–7.74] people had moderate vision loss (6/60≤VA<6/18). Presbyopia was found to be the most common ocular condition that affected an estimated 12.64 million [11.94–13.41] people (crude prevalence 6.08% [5.75–6.45]; 61% female). In terms of age-standardized YLDs rate, Pakistan is ranked fourth among other South Asian countries and twenty-first among other 42 low-middle income countries (classified by World Bank), with 552.98 YLDs [392.98–752.95] per 100,000. Compared with 1990, all-age YLDs count of blindness and vision impairment increased by 55% in 2017, which is the tenth highest increase among major health loss causes (such as dietary iron deficiency, headache disorders, low back pain etc.) in Pakistan. Moreover, our statistics show an increase in vision loss burden by 2025 for which Pakistan needs to make more efforts to encounter the growing burden of eye diseases.
+Figures
+Table 6
+Table 1
+Table 2
+Table 3
+Fig 1
+Fig 2
+Fig 3
+Fig 4
+Table 4
+Table 5
+Table 6
+Table 1
+Table 2
+Table 3
+       
+
+Citation: Hassan B, Ahmed R, Li B, Noor A, Hassan Zu (2019) A comprehensive study capturing vision loss burden in Pakistan (1990-2025): Findings from the Global Burden of Disease (GBD) 2017 study. PLoS ONE 14(5): e0216492. https://doi.org/10.1371/journal.pone.0216492
+
+Editor: Rohit C. Khanna, LV Prasad Eye Institute, INDIA
+
+Received: December 28, 2018; Accepted: April 22, 2019; Published: May 3, 2019
+
+Copyright: © 2019 Hassan et al. This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Data Availability: All relevant data are within the manuscript and its Supporting Information files.
+
+Funding: Financial support for this research was provided by National Key R&D Program of China (2017YFB0202601). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Competing interests: The authors have declared that no competing interests exist.
+Introduction
+
+Pakistan is the sixth most populous country in the world with a population exceeding 207 million [ 1 ]. Still a developing country, Pakistan is listed in the category of “low-middle” income country according to World Bank income classification 2018 [ 2 ]. Consistent with World Bank development indicators, Pakistan has considerably improved in the healthcare sector over the past few decades. Life expectancy at birth was 60.1 years in 1990, which has increased to 66.5 in 2016. Similarly, under-5 mortality rate (per 1,000 live births) was 139 in the year 1990, which has reduced to 74.9 in 2017 [ 3 ]. However, more needs to be done to further improve the quality of life in Pakistan.
+
+Visual acuity impairment severely degrades the quality of life and have more pronounced negative effects on people suffering from various other chronic health issues [ 4 – 6 ]. Globally, it has transformed into a major health problem. According to the statistics of the Global Burden of Disease (GBD) 2017 report, the third leading impairment was blindness and vision impairment that affected the greatest number of people, with 1·34 billion [95% UI 1·29–1·39] cases worldwide [ 7 ]. Globally as of 2017, 48.2 million people were blind, an additional 39.6 million had severe vision impairment, 279 million had moderate vision impairment, and 969 million had near vision impairment [ 8 ]. However, the burden of vision loss in Pakistan in the last one decade remained unclear.
+
+In this study, we have comprehensively analyzed the vision loss burden due to numerous eye diseases in Pakistan from 1990 to 2017. Using the findings, we estimated the vision loss burden in 2025. We also quantified all causes leading to blindness and vision impairment in Pakistan and compared them with other South Asian countries and 42 low-middle income countries [ 2 ] using the GBD 2017 study.
+Previous work
+
+National studies on blindness and its causes in Pakistan prior to this study are extremely limited. Until 1980, there was no data available to determine the prevalence and causes of blindness and visual impairment. First national survey was conducted between 1987–1990 by M. S. Memon [ 9 ] to estimate the prevalence and causes of blindness. They examined a total of 29157 subjects all over Pakistan and reported total blind prevalence as 9.03%. Among the various conditions responsible for blindness, cataract (66.7%) was found to be the major cause of blindness. Another national survey was conducted between 2002–2004 and the findings were reported in the form of two articles by B. Dineen et al. in [ 10 ] and M. Z. Jadoon et al. in [ 11 ]. They determined the causes and prevalence of blindness and visual impairment in adults aged 30 years and older in Pakistan, respectively. They examined 16507 subjects in total. Cataract was reported as the most common cause of blindness (<3/60) and second most common cause of moderate visual impairment (<6/18 to ≥6/60) after refractive error. The crude prevalence of blindness was 3.4% and severe vision impairment (<6/60) was 4.9%. 14.3% of the subjects presented a visual acuity <6/18 but ≥3/60 in the better eye. In 2005, R. Bourne et al. examined a total of 22600 subjects; including children aged 10 to 15 years and adults aged ≥30 years to determine prevalence rates and causes of blindness and low vision in Pakistan. They reported refractive error as the main cause of <6/12 and <6/18 visual acuity followed by cataract [ 12 ].
+
+In addition, few regional/ local studies were also conducted on blindness and its causes. K. Ahmad et al. examined 1106 subjects, aged ≥40 years to determine the prevalence and causes of blindness and visual impairment in [ 13 ]. The study was conducted in the region of Budni, Peshawar, Pakistan. Out of total 1106 subjects, 21 were blind, 27 had severe visual impairment (<6/60–3/60) and 62 had visual impairment (<6/18–6/60). Men, as compared to women, had a higher prevalence of blindness, but they had a lower prevalence of severe visual impairment and visual impairment. Moreover, cataract was found to be the leading cause of blindness and low vision. In [ 14 ], K. M. Anjum et al. examined 1600 subjects, aged >50 years in Orakzai Agency, Pakistan, to estimate the rate, coverage and visual outcome of cataract surgery. The authors concluded that cataract was the leading cause of blindness in 82.4% of all blind cases and women, when compared with men, had a higher prevalence of cataract. S. Haider et al. [ 15 ] examined 1600 subjects aged ≥50 years to conduct rapid assessment of cataract surgery in Chakwal District, Pakistan. They concluded cataract being the major cause of bilateral blindness (VA < 3/60) in 46.5% of the total cases. S. P. Shaikh et al. [ 16 ] investigated the eye diseases pattern and prevalence in children aged 5 to 15 years. They examined a total of 5110 subjects at Bazzertaline Area, South Karachi, Pakistan in 2003. They reported 0.27% prevalence of bilateral blindness, with cataract being the major cause and 2.2% prevalence of low vision, with uncorrected refractive error being the leading cause. Moreover, they reported 1.72% higher visual impairment in girls as compared to boys.
+
+All these previous studies were conducted more than a decade ago with certain limitations. Previous studies evaluated the burden of vision loss in Pakistan in terms of prevalence of eye diseases alone. We used both prevalence and YLDs to investigate the vision loss burden in our study. This enabled us to compare the burden of vision loss in Pakistan with those in other countries and other diseases in a more detailed manner. Moreover, the aim of this proposed national-level analysis is to present the comparative quantification of the burden of blindness and vision impairment along with its causes during 1990 to 2017. We have also projected the burden of blindness till 2025. This study is expected to yield important findings in accessing the burden of blindness and its causes in Pakistan over the years and might be helpful for future resource allocation. The previous studies conducted on blindness and visual impairment in Pakistan are summarized in Table 1 .
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Table 1. Summary of past studies conducted in Pakistan on blindness and its causes.
+
+https://doi.org/10.1371/journal.pone.0216492.t001
+Methods
+Overview
+
+In our study, we used GBD 2017 data ( http://ghdx.healthdata.org/gbd-results-tool ) provided by The Institute for Health Metrics and Evaluation (IHME) for analyzing the vision loss burden in Pakistan from 1990 to 2017. The Global Burden of Diseases, Injuries, and Risk Factors is a detailed study of health loss capturing various diseases and injuries, their occurrence, prevalence and severity at a global level. The GBD 2017 study results were collected from 195 countries based on 354 causes and 3484 sequelae. 68781 data sources, such as extensive literature study, hospital and clinical data, surveillance and survey data from various sources, inpatient and outpatient medical records were used in total to compile these results. This comprehensive study was a reassessment to incorporate newly collected data to the previous GBD studies. GBD Results Tool provides the details of different risk factors, causes and impairments related to health in terms of deaths, Disability-Adjusted Life Years (DALYs), Years Lived with Disability (YLDs), Years of Life Lost (YLLs) and prevalence via age, year, gender and location. DisMod-MR 2.1, a Bayesian meta-regression tool, is used as the main technique to estimate these metrics for each health loss condition [ 7 ].
+GBD vision impairment data, assumptions and data adjustment
+
+GBD collected the overall vision impairment data using representative population-based studies (such as peer-reviewed publications, grey literature, surveys etc.) conducted on measuring visual acuity. GBD also extracted data from the United States National Health and Examination Surveys (NHANES), World Health Organization (WHO) Studies on Global Ageing and Adult Health (SAGE), World Health Surveys (WHS), the Surveys of Health, Ageing, and Retirement in Europe (SHARE) and the Multi-Country Survey Study on Health and Responsiveness (MCSS). Additionally, they extracted the Rapid Assessment of Avoidable Blindness (RAAB) repository, vision impairment database in developing countries. Appendix 1 in [ 7 ] contains the exact search string used by GBD for extracting the vision impairment literature. Data that aligned with Snellen scale visual acuity levels was only considered, excluding the studies which did not access “presenting” or “best-corrected” vision. Furthermore, the studies presenting vision loss by cause were also considered to estimate the prevalence of vision loss due to various causes such as cataract, glaucoma, macular degeneration etc.
+
+After retrieving data from all these sources GBD made certain assumptions and adjustments to the collected raw data for extrapolating the results; (1) In case where studies did not report separate blind and visual acuity severity estimates, GBD used linear regression method to predict ratios on age from studies that reported vision loss data by each severity, (2) In case where studies only reported best-corrected vision impairment estimates and did not report Presenting Vision Impairment (PVI) estimates, GBD used linear regression of logit-transformed prevalence of PVI with age, super-region random effects, fixed effects on best-corrected vision impairment and per capita Lag-Distributed Income (LDI) to predict PVI estimates for studies not reporting PVI data points explicitly. In DisMod-MR 2.1 model, these estimated data points were labeled with a study-level covariate which increased the standard error, (3) In case where estimated data points traversed more than twenty years of age, GBD used age-split algorithm to split the data points over five-year age groups by applying the age-pattern of the super-region. Appendix 1 in [ 7 ] explains the detailed modelling strategy for estimating severity-specific and cause-specific vision impairment.
+Uncertainty analysis
+
+In GBD 2017 study, non-reference data types were multiplied by the exponentiated predictions from respective penalized spline regressions to crosswalk non-reference data types to reference data types. After data adjustments, uncertainty was accounted for using the Eq ( 1 ): (1)
+
+Where ε a is the standard error of the adjusted non-reference data point, ε m is the exponentiated crosswalk prediction and ε s is the standard error the non-reference data point. μ s is the mean of the non-reference data point and μ m is the exponentiated crosswalk predictions from the penalized spline regressions.
+
+Uncertainty Interval (UI) in GBD 2017 study was estimated by bootstrapping with 1000 samples. The distribution of each step was stored in 1000 draws, which was later used in computation process of every other step. For determining the distribution, sampling error of data inputs and uncertainties of the disability weights, severity distributions and the model coefficients were used. Mean estimate across 1000 draws was used for computing final estimates and based on the 25 th and 975 th ranked value across all 1000 draws, the 95% UI was determined. The detailed explanation on how uncertainty is accounted for in GBD study is mentioned in [ 7 ].
+GBD analytic model framework
+
+The analytical modelling framework with major estimation components used by GBD to compile and estimate the results is explained step-by-step as following: GBD first takes the raw data sources in the form of community surveys, national surveys, case notifications, surveillance data, outpatient and Inpatient hospital data etc. In the next step, GBD performs certain data adjustments on the compiled raw data by applying age-sex splitting, adding study-level covariates, cause of death and demographic inputs and making other adjustments to the input data. Analytical DisMod-MR 2.1 estimation model along with injury modeling strategy and alternative modelling strategies are applied to the adjusted data, followed by impairments and underlying causes estimation, severity distribution, disability weights and comorbidity correction, to calculate the final burden estimates for each disease and injury by age, sex, year and country. The detailed explanation on GBD analytical modelling framework is shown in [ 7 ].
+DisMod-MR 2.1 estimation model.
+
+GBD 2017 study used Bayesian meta-regression method DisMod-MR 2.1 as the estimation method. Before GBD 2010 study, most relevant single data source of a disease, location and time was used for nonfatal estimates in burden of disease assessments. DisMod-MR 1.0, the first version of DisMod was used in GBD 2010 study to evaluate more detailed information on a disease considering age-groups and data from multiple sources. DisMod-MR 1.0 analytical tool accounted for uncertainty intervals using Bayesian statistical methods and produced world regions estimates by evaluating and pooling all available data. DisMod-MR 2.0 version was introduced in GBD 2013 study, with increased computational speed and efficient implementation of model using C++ by altering model specification using log rates instead of negative binomial model. Also, all disease parameters were presented at country level rather than regional. DisMod-MR 2.1 version was introduced in GBD 2015 study by rewriting the code in Python language to organize the flow of data and settings in five levels: global, super-region, region, country and subnational (where applicable) location. For GBD 2016 and 2017 study, the computational engine DisMod-MR 2.1 mostly remained unchanged. However, GBD included new subnational locations each year and introduced new age groups 80–84, 85–89, 90–94, and 95+ in GBD 2016 study and onwards. Appendix 1 in [ 7 ] shows the DisMod-MR 2.1 analytical cascade in detail.
+
+DisMod-MR 2.1 likelihood estimation is either based on a Gaussian, log-Gaussian, Laplace or Log-Laplace function. However, log-Gaussian equation is used as default for estimation of data likelihood. More detailed explanation of DisMod-MR 2.1 estimation model along with the relevant formulas and equations are provided in [ 7 ].
+Method for forecasting prevalence beyond 2017
+
+In our study, we used Auto-Regressive Integrated Moving Average (ARIMA) model to forecast burden of blindness and vision impairment from 2018 to 2025. ARIMA is specified by three main component parameters known as P, D and Q. Briefly, they are:
+
+    P stands for Autoregression, represents the lag order i.e. the number of lag observations in the model.
+    D stands for Integrated, represents the degree of differencing i.e. the number of times input raw observations are differenced, in order to make the model stationary.
+    Q stands for Moving Average, represents the order of moving average i.e. the size of moving average window applied to lagged observations.
+
+We used MATLAB R2017a software, with its built-in “estimate”, “arima” and “forecast” functions to forecast the burden. These functions automatically test the ARIMA model for all possible values of P, D and Q and in the process selects the best model with right values of these parameters to use, hence avoiding the manual process of hit and trial methods.
+Definitions
+Prevalence and YLDs.
+
+We used prevalence and YLDs as measure metrics for analyzing the vision loss burden in Pakistan. Prevalence number represents the total disease cases that are reported in a designated population at a given time. YLDs means years of life lived with any sort of health-related disability over time. YLDs count is calculated by taking the product of disability weight and prevalence number, where disability weight indicates a number between 0 and 1 representing the health loss severity related to a particular disease. It is estimated by comparing cross-cultural and worldwide health issues. YLDs rate is expressed as a rate per 100K and measured by dividing the total number of deaths due to a certain disease by the relevant population of that region. In this study, we quantified our results over time and with age (all-age, age-standardization and different age groups). Age-related diseases are often misrepresented due to the over or under representation of different age structures, therefore, age-standardization indicator is used to compare populations with different age groups [ 7 ].
+Vision impairment categories and eye diseases.
+
+The GBD 2017 study considered presenting distance visual acuity <6/18 as vision impairment and listed it in following six different categories based on distance vision: Near Vision Loss (NVL), Mild Vision Loss (mVL), Moderate Vision Loss (MVL), Severe Vision Loss (SVL), Monocular Vision Loss (MonoVL) and Blindness. Table 2 defines the presenting distance visual acuity of each category in the better eye. Further, it has reported the following seven eye diseases: Trachoma, Glaucoma, Cataract, Macular Degeneration (Macular Edema, Dry or Wet Age-Related Macular Degeneration (ARMD) and other macular pathologies), Refraction Disorders (RD), Presbyopia and Other Vision Loss (OVL) [ 8 ]. A total of 57 eye conditions are categorized under the broad term of OVL [ 17 ].
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Table 2. Vision impairment categories with corresponding visual acuity levels.
+
+https://doi.org/10.1371/journal.pone.0216492.t002
+Results
+Crude and age-standardized prevalence
+
+We used Pakistan 6 th national population and housing census data acquired from Pakistan Bureau of Statistics [ 1 ] website to estimate crude numbers affected and age-standardized prevalence of vision loss burden in 2017. Out of the 207.7 million total population of Pakistan in 2017, an estimated 21.78 million [95% UI 20.67–22.98] were affected from blindness and vision impairment (all-age crude prevalence 10.48% [95% UI 9.95–11.06]; 57% female). The age-standardized prevalence was 15.38% [95% UI 14.63–16.26]. Table 3 shows the detailed crude and age-standardized prevalence of ocular diseases and vision impairment categories in Pakistan for year 2017.
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Table 3. Crude and age-standardized prevalence of vision loss burden in Pakistan in year 2017.
+
+https://doi.org/10.1371/journal.pone.0216492.t003
+Vision impairment categories.
+
+In terms of all-age prevalence, NVL (6.08% [5.75–6.45]; 61% female) was the main contributor towards total burden of vision loss in Pakistan. It was followed by MVL (3.27% [2.89–3.73]; 51% female), ranking second out of the six categories of vision impairment. Both blindness (0.54% [0.51–0.57]; 55% female) and SVL (0.52% [0.45–0.60]; 51% female) remained the third most common cause, followed by MonoVL (0.05% [0.03–0.07]; 49% female) and then mVL (0.02% [0.01–0.04]; 48% female) with the least prevalence in 2017.
+Eye diseases.
+
+With over 12.64 million [95% UI 11.94–13.41] all-age cases reported (crude prevalence 6.08% [95% UI 5.75–6.45]; 61% female), presbyopia remained the leading ocular disorder in Pakistan. RD (2.31% [2.02–2.62]; 50% female) was found to be the second most common disorder, followed by cataract (1.21% [1.06–1.39]; 54% female), OVL (0.26% [0.22–0.29]; 50% female) and then by trachoma (0.07% [0.05–0.11]; 54% female). Glaucoma (0.03% [0.03–0.04]; 49% female) and ARMD (0.02% [0.02–0.03]; 50% female) remained the least common eye diseases in Pakistan for year 2017.
+1990–2017 trends of vision impairment categories and eye diseases
+
+In the vision impairment categories, NVL was the main contributor towards burden of vision loss in Pakistan from 1990 to 2017. In 1990, NVL contributed 52% to the total vision loss burden while the same amplified to 58% in 2017. It was followed by MVL, ranking second out of the six categories of vision impairment, with a contribution of 36% in 1990 and 31% in 2017. Both, blindness and SVL showed a negligible variation from 1990 to 2017 and remained the third more common category of vision loss burden. In 1990, blindness was 6% and SVL was 5%, while each of these categories contributed 5% in 2017. The all-age prevalence of MonoVL and mVL increased slightly over time during 1990 to 2017, but both contributed less than 1% to the overall burden of vision loss in Pakistan.
+
+In relation to eye diseases, presbyopia persisted as the leading ocular disorder in Pakistan from 1990 to 2017, followed by RD being the second most common disorder. The all-age prevalence for both these diseases increased steadily over this period. The third more common eye disease was found to be cataract, followed by OVL and then by trachoma. The all-age prevalence of OVL showed a slight increase over time whereas, the numbers of trachoma fell significantly after 2005 until 2017. Glaucoma showed a steady rise in all-age prevalence from 1990 to 2017 followed by ARMD, which also increased considerably over time. The trends of vision loss categories and eye diseases can be observed in Fig 1 and Fig 2 in more detail.
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Fig 1.
+
+All-age prevalence number (1990–2025) for (a) blindness and vision impairment severity (b) various eye diseases.
+
+https://doi.org/10.1371/journal.pone.0216492.g001
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Fig 2.
+
+Distribution of blindness and vision impairment severity with leading causes for year (a) 1990 (b) 2017.
+
+https://doi.org/10.1371/journal.pone.0216492.g002
+Projections of vision loss burden beyond 2017
+
+It can be observed that the total blindness and vision impairment all-age prevalence increased steadily from 1990 to 2017 and the same statistics are projected with a rise in 2025. In relation to eye diseases, the probable statistics of 2025 show an increase in all the eye diseases except trachoma, which shows a decline in future. The projections of vision loss burden can be observed in more detail in Fig 1 .
+Leading causes of vision impairment
+
+Our results indicated that the prevalence of NVL due to presbyopia was 100%. RD was found to be the most common cause of MVL, followed by cataract, vitamin A deficiency, OVL and neonatal preterm birth for both year 1990 and 2017, while diabetes mellitus type 2 emerged as a new leading cause in 2017 contributing 1% to the entire MVL burden in Pakistan. Cataract, with the contribution of more than 50%, was found to be the most common leading cause towards blindness and SVL cases for both year 1990 and 2017. Neonatal preterm birth turned out to be the leading cause in all the mVL cases whereas, meningitis with the percentage of more than 40, was the most dominant cause in MonoVL cases, followed by encephalitis for each year 1990 and 2017. With respect to prevalence percentage, the leading causes of vision impairment categories are shown in Fig 2 .
+Age-specific and gender-specific prevalence of eye diseases
+
+The burden of eye diseases increased between 1990 and 2017 among all age groups and genders, while the ranking of these diseases changed: presbyopia (first), RD (second) and cataract (third) were the most prevailing eye diseases both in male and female for aged 30–59 years, while for aged 60 years and above, cataract (second) replaced RD (third) in both genders. The occurring of trachoma, Glaucoma and ARMD notably increased for those aged 60 and above. Following the statistics from 1990 to 2017, the estimation in 2025 projects a rise in overall burden of eye diseases in Pakistan. Moreover, the prevalence number of females in ratio to males shows an increase in 2025. Fig 3 shows the detailed age group and gender-wise prevalence of eye diseases both in 1990, 2017 and estimating the burden in 2025 for Pakistan.
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Fig 3. Age group and gender-wise prevalence of various eye diseases in year 1990, 2017 and 2025.
+
+https://doi.org/10.1371/journal.pone.0216492.g003
+Comparison of all-age prevalence with other South Asian countries
+
+Pakistan, with 21.78 million all-age prevalence of blindness and vision impairment is ranked third among other South Asian countries after India and Bangladesh. While, in terms of age-standardized YLDs rate, Pakistan is ranked fourth with 552.98 YLDs [95% UI 392.98–752.95] per 100,000. India is ranked on top with 765.60 YLDs [95% UI 529.17–1080.41], followed by Afghanistan and then by Bangladesh. Maldives having 0.054 million all-age prevalence had the least burden of blindness and vision impairment while, Bhutan with 313.83 YLDs [95% UI 211.83–459.40] per 100,000, is ranked last in terms of YLDs rate. The overall percentage change of vision loss burden in Pakistan during 1990 to 2017 was found to be 67%, which was the third least increase of burden in this period after Sri Lanka (58%) and Nepal (64%). All South Asian countries except Maldives showed higher prevalence of vision impairment in females. Presbyopia, RD and cataract remained the leading eye disorders in all the South Asian countries including Pakistan. Table 4 and Fig 4 give the detailed comparison of blindness and vision impairment of Pakistan with other South Asian countries.
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Fig 4. All-age prevalence and age-standardized YLDs rate for South Asian countries in year 2017.
+
+https://doi.org/10.1371/journal.pone.0216492.g004
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Table 4. Age-specific vision loss burden with leading causes in South Asian countries in year 2017.
+
+https://doi.org/10.1371/journal.pone.0216492.t004
+Standing of Pakistan among other 42 low-middle income classified countries by World Bank
+
+We found that all-age YLDs count increased in the majority of the countries including Pakistan between 1990 and 2017, while Pakistan ranked 4 th among 42 countries in 2017. However, age-standardized YLDs rate (per 100K) of Pakistan showed the 8 th highest decrease between 1990 and 2017, and as a result improved its position to 21 st rank among other listed countries in 2017. Presbyopia, RD and cataract remained the leading causes of visual impairment in all 42 countries including Pakistan in 2017, with more than 90% contribution to the overall burden of vision loss. Additionally, the prevalence ratio remained more in females in all countries including Pakistan except Papua New Guinea and Vanuatu. Table 5 gives a detailed comparative analysis of vision loss burden in Pakistan with other 42 low-middle income classified countries by World Bank in terms of age-standardized YLDs rate and all-age YLDs count between 1990 and 2017, and prevalence percentage for leading causes of visual impairment in 2017.
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Table 5. Age-standardized YLDs rate (per 100K) and all-age YLDs count for vision loss burden between 1990 and 2017 in 42 low-middle income classified countries by World Bank, with leading causes in 2017.
+
+https://doi.org/10.1371/journal.pone.0216492.t005
+Leading causes of health loss in Pakistan between 1990 and 2017
+
+Compared with 1990, the health loss burden increased in 2017 in Pakistan. All-age YLDs count of blindness and vision impairment increased by 55% in 2017, which is the tenth highest increase among other health loss causes. Whereas, in terms of age-standardized YLDs rate, blindness and vision impairment reduced by 21% in 2017, which is the fourth highest decrease among other health loss causes. Table 6 shows a detailed comparison of burden of blindness and vision impairment with other major health loss causes in Pakistan between 1990 and 2017.
+thumbnail
+Download:
+
+    PPT
+    PowerPoint slide
+    PNG
+    larger image
+    TIFF
+    original image
+
+Table 6. All-age YLDs count and age-standardized YLDs rate (per 100K) for leading causes of health loss in Pakistan between 1990 and 2017.
+
+https://doi.org/10.1371/journal.pone.0216492.t006
+Discussion
+
+To the best of our knowledge, very few national studies have been conducted in the past to investigate the burden of vision loss in Pakistan. We used GBD 2017 data released on November 8, 2018 to conduct our study. The main contributions of our study are to investigate: 1) total burden of vision loss from 1990 to 2025, 2) burden of individual eye diseases from 1990 to 2025, 3) severity of vision loss burden in Pakistan between 1990 and 2017, 4) prevalence of eye diseases in relation to different age groups and gender in 1990, 2017 and 2025, 5) comparative analysis of vision loss burden in Pakistan among other South Asian countries and 42 low-middle income countries, and 6) comparison of vision loss burden with other major causes of health loss in Pakistan.
+
+Our findings indicate that the burden of vision loss in Pakistan had been on the rise from 1990 to 2017 and is estimated to further increase at a steady rate by 2025, unless some major developments are made to control this burden. Among vision impairment categories, the combined crude prevalence of MVL and SVL in 2017 was 3.79% [95% UI 3.34–4.33], and the leading causes were RD (87%) and cataract (72%). The crude prevalence of blindness was 0.54% [0.51–0.57], with cataract (51%) being the leading cause. These findings are consistent with other global studies [ 18 – 19 ]. In relation to eye diseases, presbyopia, RD and cataract were the three dominating impairments in Pakistan, which is also consistent with other regional studies [ 20 – 24 ]. Due to ageing and population growth, the burden of most eye diseases increased between 1990 and 2017 and the same statistics are predicted to rise until 2025. It is concerning that for the past 27 years, the prevalence of presbyopia, refraction and macular disorders increased progressively whereas most of these pathologies are avoidable and treatable if diagnosed in time. Secondly, most of the presbyopia and RD can be corrected safely and with less expenses, more efforts should be made in time to avoid such cases. Furthermore, these disorders mostly fall under avoidable blindness therefore, additional priority should be accorded in this area. This also aligns with the initiative of “VISION 2020: the Right to Sight”, which aims to eliminate avoidable blindness by the year 2020 [ 25 ]. Additionally, cataract was found to be the third leading cause of vision loss burden, and the dominating cause of blindness and SVL in Pakistan with a contribution of more than 50%.
+
+It is worth noting that Pakistan has well controlled the overall prevalence of blindness and vision impairment in comparison to the staggering increase in its population. According to the Pakistan’s National Census Report 2017, the population of Pakistan increased by 60% from 1998 to 2017 [ 1 ], whereas the total burden of vision loss (all vision impairment categories inclusive) increased by 43% during this time. Additionally, the burden due to blindness and SVL among other vision impairment categories mostly remained unchanged from 1990 to 2017 as shown in Fig 1A .
+
+Even though the overall burden of impairment due to vision loss has significantly reduced by 21% among other health loss problems in Pakistan as shown in this study, the condition of health infrastructure is not very satisfactory in general. Specialized hospitals are numbered, there is a scarcity of basic health units or lack of newest health services at a wide scale. Also, the reach to the tertiary level health centers is mostly limited because the major proportion of the population dwells in rural areas, where the health infrastructure is considerably weak [ 26 – 28 ]. These very conditions are likewise applicable to the ophthalmology institutes in Pakistan. Lack of advanced surgical techniques, trained eye-care workforce, access to eye-care services and post-operative follow-ups are most likely reasons for cataract being the dominant cause of blindness and SVL in Pakistan between 1990 to 2017 [ 29 ]. Additionally, it is seen that the quality of cataract surgery in Pakistan is not up to the mark resulting in sizable blindness cases after surgery [ 30 ]. Furthermore, it was observed in our results that the prevalence of cataract in females was more as compared to males, this is presumably due to the factor of gender disparity in quantity of cataract surgery in Pakistan. However, one positive sign was the drastic decline in prevalence of trachoma after 2005.
+
+Further, when we studied the burden of vision loss by gender and age group, it was observed that the burden of vision loss for male was most between aged 50–59 years as compare to all other age groups. Whereas, for female the maximum burden was between aged 40–49 years when compared with all other age groups. In the younger ages (aged 1–29 years), presbyopia and RD are more prominent among all other eye diseases. Cataract emerged in the age of 30 years and above among both genders, while trachoma and glaucoma appeared in the older ages (aged 60 years and above) among both genders. Since, major causes of blindness and vision loss are related to age such as glaucoma, macular degeneration and cataract, the ageing population adds a substantial weight to the overall burden of vision loss. Additionally, as mentioned above, life expectancy at birth has significantly improved in Pakistan since 1990, which may have resulted in higher prevalence for eye diseases of ageing and therefore, Pakistan’s national health policy should assign precedence to control these growing eye diseases. Among other South Asian countries, Pakistan ranked fourth in terms of age-standardized YLDs rate (per 100K) and third in terms of all-age prevalence of blindness and vision impairment in 2017. Further, in comparison to other 42 low-middle income countries, the vision loss burden in Pakistan has significantly reduced by 21% in terms of percentage change between 1990 and 2017 for age-standardized YLDs rate (per 100K). Pakistan has shown the 8 th highest decrease among other 42 countries despite all challenges, which is a satisfactory performance.
+
+This study has several limitations. Although GBD 2017 study made efforts to collect data from all possible sources, the quality and quantity of available data are still limited, resultantly affecting the accuracy of estimated burden. GBD shows considerable heterogeneity in terms of data density. This may result in non-consistent correlation between available data and burden estimates. GBD uses Medical Expenditure Panel Survey (MEPS) by USA to estimate the global severity distributions of diseases in their study. This poses a limitation because the severities experienced in one population may not reflect the severity distributions worldwide and are most likely to change with location, age, time and treatment access. GBD heavily relies on clinical data records, with efforts to correct selection bias in clinical records, it uses representative studies as reference from USA and Taiwan claim records only. This poses limitations to the generalizability of these data adjustments. Moreover, GBD 2017 cause-list included 354 diseases/injuries to estimate impairments. However, this has led to inaccurate estimates for some impairments, for example, in our study mVL and MonoVL are specified by very few causes. This resulted in less estimates of these impairments when compared to MVL. As MVL had increased significantly, one would assume same for mVL and MonoVL. Therefore, there is a need to incorporate a greater level of detail in the GBD cause-list to estimate impairments with much more accuracy. The burden of vision loss for children younger than 15 years may be underestimated due to exclusion of certain rare ocular diseases such as congenital cataract and congenital glaucoma. Despite these many limitations, the GBD annual reports are very helpful and provide a standardize approach to evaluate and access the burden of various diseases across time and place.
+
+In summary, this study illustrates the insights of vision loss burden in Pakistan, which mostly remained unclear in the past decade or more. As mentioned earlier, Pakistan has shown noteworthy improvement in restricting the burden over the last 27 years despite so many challenges its way. However, our statistics show a rise in vision loss burden in future for which Pakistan’s needs to make more efforts, such as according national priority to this cause by implementing effective policies and measures in the health sector, setting eye-care centers in remote areas, substituting trained eye-care workforce, and by facilitating ophthalmologists with state-of-the-art computer-aided diagnosis and detection infrastructure [ 31 – 32 ] to tackle the growing burden of vision loss.
+Supporting information
+
+A comprehensive study capturing vision loss burden in Pakistan (1990-2025): Findings from the Global Burden of Disease (GBD) 2017 study
+
+Showing 1/8: pone.0216492.s001.xlsx
+Skip to fig share navigation
+	A	B	C	D	E	F	G	H	I	J	K	L
+1	measure	location	sex	age	cause	rei	metric	year	val	upper	lower	PERCENTAGE
+2	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	1992	853511.973055	898081.91997	814231.61485	
+3	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	1990	830286.462217	877987.112175	787517.949178	6.356781735956305
+4	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	1991	841712.090738	887673.437259	800826.431624	
+5	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	1993	866191.411537	910521.307672	827329.086527	
+6	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	1995	894655.121132	939691.942842	854663.759398	
+7	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	1994	880052.414483	924585.562214	840657.716794	
+8	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	1996	910579.985121	955636.924504	869576.910632	
+9	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	1997	928365.276985	973730.311987	886138.681244	
+10	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	1999	965304.09478	1014556.66545	917805.660256	
+11	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2000	982669.614818	1036739.61265	932228.975824	
+12	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	1998	946821.755429	993051.231411	902500.502075	
+13	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2001	997392.250594	1051187.16531	946031.784789	
+14	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2004	1030674.64612	1086805.11267	977817.956363	
+15	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2003	1020731.01674	1075840.84754	967711.91721	
+16	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2005	1039789.41571	1098131.84427	987139.17418	
+17	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2002	1009917.5021	1063259.92216	957510.154061	
+18	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2007	1035115.21673	1088910.61074	984630.359224	
+19	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2006	1041935.94477	1096466.18776	990666.122517	
+20	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2008	1024021.50725	1077183.1659	973605.106736	
+21	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2009	1015644.38477	1070062.15013	966142.703938	
+22	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2011	1025637.68674	1080319.76661	974363.518423	
+23	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2012	1035753.70814	1091478.71654	984121.945411	
+24	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2010	1017016.01094	1071332.04872	965167.44616	
+25	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2016	1098088.86011	1160508.90162	1042303.92049	
+26	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2015	1078145.74954	1139336.83561	1024181.42797	
+27	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2013	1047043.73678	1103776.57798	994710.111304	
+28	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2014	1060956.71864	1119190.3092	1007596.15473	
+29	Prevalence	Pakistan	Both	All Ages	All causes	Blindness	Number	2017	1122758.48483	1187781.95309	1066071.56459	5.1555803281533805
+30	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	1991	13312499.2641	14076332.2064	12628849.5448	
+31	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	1992	13565497.3891	14300972.1994	12877893.1769	
+32	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	1993	13822229.6839	14560440.9189	13137268.3609	
+33	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	1994	14090305.4623	14839458.4931	13395545.5938	
+34	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	1990	13061427.8845	13865292.5837	12372850.9035	100
+35	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	1996	14641585.8002	15406162.488	13951360.7031	
+36	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	1995	14367914.7187	15153053.5059	13631033.1507	
+37	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	1997	14919788.3773	15678944.6239	14233575.1214	
+38	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	1998	15204025.3424	15955282.049	14495587.825	
+39	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	2000	15844591.0355	16621214.7361	15081842.3356	
+40	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	2001	16206735.9327	16952383.3181	15477779.2427	
+41	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	1999	15509635.014	16267611.9823	14779930.0125	
+42	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	2002	16600416.9202	17334848.4417	15874086.9155	
+43	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	2004	17436447.2086	18163849.1689	16674880.6396	
+44	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	2005	17856497.426	18615184.0009	17069939.7132	
+45	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	2003	17012011.2915	17723449.3098	16289402.6557	
+46	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	2006	18106831.5172	18861226.5323	17338618.6382	
+47	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	2008	18065374.7051	18896244.139	17311167.4509	
+48	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	2009	18063561.209	18982693.9298	17221447.1391	
+49	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	2010	18306840.5013	19304378.4881	17360127.5607	
+50	Prevalence	Pakistan	Both	All Ages	All causes	Blindness and vision impairment	Number	2012	19192459.7428	20213730.5638	18228057.0384	
+Figure 1(a) and Table 3 Data
+1 / 8
+Download
+fig share
+Global Burden of Diseases (GBD), 2017 study data used in Fig 1A and Table 3.
+
+(XLSX)
+S1 Table. Global Burden of Diseases (GBD), 2017 study data used in Fig 1A and Table 3 .
+
+https://doi.org/10.1371/journal.pone.0216492.s001
+
+(XLSX)
+S2 Table. Global Burden of Diseases (GBD), 2017 study data used in Fig 1B and Table 3 .
+
+https://doi.org/10.1371/journal.pone.0216492.s002
+
+(XLSX)
+S3 Table. Global Burden of Diseases (GBD), 2017 study data used in Fig 2 .
+
+https://doi.org/10.1371/journal.pone.0216492.s003
+
+(XLSX)
+S4 Table. Global Burden of Diseases (GBD), 2017 study data used in Fig 3 .
+
+https://doi.org/10.1371/journal.pone.0216492.s004
+
+(XLSX)
+S5 Table. Global Burden of Diseases (GBD), 2017 study data used in Fig 4 .
+
+https://doi.org/10.1371/journal.pone.0216492.s005
+
+(XLSX)
+S6 Table. Global Burden of Diseases (GBD), 2017 study data used in Table 4 .
+
+https://doi.org/10.1371/journal.pone.0216492.s006
+
+(XLSX)
+S7 Table. Global Burden of Diseases (GBD), 2017 study data used in Table 5 .
+
+https://doi.org/10.1371/journal.pone.0216492.s007
+
+(XLSX)
+S8 Table. Global Burden of Diseases (GBD), 2017 study data used in Table 6 .
+
+https://doi.org/10.1371/journal.pone.0216492.s008
+
+(XLSX)
+Acknowledgments
+
+We are extremely thankful to The Institute for Health Metrics and Evaluation (IHME) and their project: Global Burden of Global Burden of Disease (GBD) 2017 ( S1 – S8 Tables), which enabled us to conduct this national study.
+References
+
+    1. Pakistan Bureau of Statistics. Accessed November 2018. Available from: http://www.pbs.gov.pk/content/provisional-summary-results-6th-population-and-housing-census-2017-0
+    2. World Bank (Country and Lending Groups). Accessed November 2018. Available from: https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups
+    3. World Bank (World Development Indicators). Accessed November 2018. Available from: http://databank.worldbank.org/data/source/world-development-indicators
+    4. Park SJ, Ahn S, Woo SJ, Park KH. Extent of Exacerbation of Chronic Health Conditions by Visual Impairment in Terms of Health-Related Quality of Life. JAMA Ophthalmol. 2015;133(11):1267–75. Epub 2015/09/18. pmid:26379209.
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    5. Keeffe JE. Vision Impairment and Chronic Health Conditions: Implications for Services. JAMA Ophthalmol. 2015;133(11):1275–6. pmid:26378983
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    6. Park Y, Shin JA, Yang SW, Yim HW, Kim HS, Park Y-H, et al. The relationship between visual impairment and health-related quality of life in Korean adults: The Korea national health and nutrition examination survey (2008–2012). PLoS One. 2015;10(7):e0132779. pmid:26192763
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    7. James SL, Abate D, Abate KH, Abay SM, Abbafati C, Abbasi N, et al. Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017. The Lancet. 2018;392(10159):1789–858.
+        View Article
+        Google Scholar 
+    8. Global Burden of Disease Collaborative Network, Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018. Accessed February 2019. Available from: http://ghdx.healthdata.org/gbd-results-tool .
+    9. Memon MS. Prevalence and causes of blindness in Pakistan. J Pak Med Assoc. 1992;42:196–198. pmid:1433800
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    10. Dineen B, Bourne R, Jadoon Z, Shah SP, Khan MA, Foster A, et al. Causes of blindness and visual impairment in Pakistan. The Pakistan national blindness and visual impairment survey. Br J Ophthalmol. 2007;91(8):1005–10. pmid:17229806
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    11. Jadoon MZ, Dineen B, Bourne RR, Shah SP, Khan MA, Johnson GJ, et al. Prevalence of blindness and visual impairment in Pakistan: the Pakistan National Blindness and Visual Impairment Survey. Invest. Ophthalmol. Vis. Sci. 2006;47(11):4749–55. pmid:17065483
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    12. Bourne R, Dineen B, Jadoon Z, Lee PS, Khan A, Johnson GJ, et al. The Pakistan national blindness and visual impairment survey—research design, eye examination methodology and results of the pilot study. Ophthalmic Epidemiol. 2005;12(5):321–33. pmid:16272052
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    13. Ahmad K, Khan MD, Qureshi MB, Munami S, Shah RA, Rasheed H, et al. Prevalence and causes of blindness and low vision in a rural setting in Pakistan. Ophthalmic Epidemiol. 2005;12(1):19–23. pmid:15848917
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    14. Anjum K, Qureshi M, Khan M, Jan N, Ali A, Ahmad K, et al. Cataract blindness and visual outcome of cataract surgery in a tribal area in Pakistan. Br J Ophthalmol. 2006;90(2):135–8. pmid:16424519
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    15. Haider S, Hussain A, Limburg H. Cataract blindness in Chakwal District, Pakistan: results of a survey. Ophthalmic Epidemiol. 2003;10(4):249–58. pmid:14628967
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    16. Shaikh SP, Aziz TM. Pattern of eye diseases in children of 5–15 years at Bazzertaline Area (South Karachi) Pakistan. J Coll Physicians Surg Pak. 2005;15(5):291–4. pmid:15907241
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    17. Boyers LN, Karimkhani C, Hilton J, Richheimer W, Dellavalle RP. Global burden of eye and vision disease as reflected in the Cochrane Database of Systematic Reviews. JAMA Ophthalmol. 2015;133(1):25–31. pmid:25232930
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    18. Bourne RR, Flaxman SR, Braithwaite T, Cicinelli MV, Das A, Jonas JB, et al. Magnitude, temporal trends, and projections of the global prevalence of blindness and distance and near vision impairment: a systematic review and meta-analysis. The Lancet. 2017;5(9):e888–e97. pmid:28779882
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    19. Flaxman SR, Bourne RR, Resnikoff S, Ackland P, Braithwaite T, Cicinelli MV, et al. Global causes of blindness and distance vision impairment 1990–2020: a systematic review and meta-analysis. The Lancet. 2017;5(12):e1221–e34. pmid:29032195
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    20. Kahloun R, Khairallah M, Resnikoff S, Cicinelli MV, Flaxman SR, Das A, et al. Prevalence and causes of vision loss in North Africa and Middle East in 2015: magnitude, temporal trends and projections. Br J Ophthalmol. 2018:bjophthalmol-2018-312068.
+        View Article
+        Google Scholar 
+    21. Keeffe JE, Casson RJ, Pesudovs K, Taylor HR, Cicinelli MV, Das A, et al. Prevalence and causes of vision loss in South-east Asia and Oceania in 2015: magnitude, temporal trends and projections. Br J Ophthalmol. 2018:bjophthalmol-2018-311946.
+        View Article
+        Google Scholar 
+    22. Leasher JL, Braithwaite T, Furtado JM, Flaxman SR, Lansingh VC, Silva JC, et al. Prevalence and causes of vision loss in Latin America and the Caribbean in 2015: magnitude, temporal trends and projections. Br J Ophthalmol. 2018:bjophthalmol-2017-311746.
+        View Article
+        Google Scholar 
+    23. Bourne RR, Jonas JB, Bron AM, Cicinelli MV, Das A, Flaxman SR, et al. Prevalence and causes of vision loss in high-income countries and in Eastern and Central Europe in 2015: magnitude, temporal trends and projections. Br J Ophthalmol. 2018;102(5):575–85. pmid:29545417
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    24. Wang B, Congdon N, Bourne R, Li Y, Cao K, Zhao A, et al. Burden of vision loss associated with eye disease in China 1990–2020: findings from the Global Burden of Disease Study 2015. Br J Ophthalmol. 2018;102(2):220–4. pmid:28607177
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    25. He M, Mathenge W, Lewallen S, Courtright P. Global efforts to generate evidence for Vision 2020. Ophthalmic Epidemiol. 2015;22(4):237–8. pmid:26218105
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    26. Shumaila A, Javed I, Hira W, Maria I, Ayesha N. Health Care System in Pakistan; A Review. Res Pharm Healt Sci. 2016;2(3):211–6.
+        View Article
+        Google Scholar 
+    27. Rabbani F, Abbasi IN. Accreditation and health care quality assurance in Pakistan: A desk review. Pakistan Journal of Public Health. 2017;7(3):174–9.
+        View Article
+        Google Scholar 
+    28. Abbas F, Awan HS. What Determines Health Status of Population in Pakistan? Soc Indic Res. 2018;139(1):1–23.
+        View Article
+        Google Scholar 
+    29. Shah M, Noor A, Deverell L, Ormsby GM, Harper CA, Keeffe JE. Task sharing in the eye care workforce: Screening, detection, and management of diabetic retinopathy in Pakistan. A case study. Int J Health Plann Mgmt. 2018;33(3):627–36.
+        View Article
+        Google Scholar 
+    30. Ahmad K, Zwi AB, Tarantola DJ, Soomro AQ, Baig R, Azam SI. Gendered disparities in quality of cataract surgery in a marginalised population in Pakistan: The Karachi Marine Fishing Communities Eye and General Health Survey. PLoS One. 2015;10(7):e0131774. pmid:26186605
+        View Article
+        PubMed/NCBI
+        Google Scholar 
+    31. Hassan B, Ahmed R, Li B. Computer Aided Diagnosis of Idiopathic Central Serous Chorioretinopathy. 2018 2nd IEEE Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC); 2018: IEEE.
+    32. Hassan B, Raja G. Fully automated assessment of macular edema using optical coherence tomography (OCT) images. 2016 International Conference on Intelligent Systems Engineering (ICISE); 2016: IEEE.
+
+Download PDF
+ 
+
+    Citation
+    XML
+
+Print
+
+    Print article
+    Reprints
+
+Share
+
+    Reddit Reddit
+    Facebook Facebook
+    LinkedIn LinkedIn
+    Mendeley Mendeley
+    Twitter Twitter
+    Email Email
+
+  Check for updates via CrossMark
+Subject Areas
+?
+Do these Subject Areas make sense for this article? Click the target next to the incorrect Subject Area and let us know. Thanks for your help!
+
+    Vision  
+
+    Is the Subject Area "Vision" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Blindness  
+
+    Is the Subject Area "Blindness" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Visual impairments  
+
+    Is the Subject Area "Visual impairments" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Global health  
+
+    Is the Subject Area "Global health" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Pakistan  
+
+    Is the Subject Area "Pakistan" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Eye diseases  
+
+    Is the Subject Area "Eye diseases" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Cataracts  
+
+    Is the Subject Area "Cataracts" applicable to this article? Yes No
+
+    Thanks for your feedback.
+    Cataract surgery  
+
+    Is the Subject Area "Cataract surgery" applicable to this article? Yes No
+
+    Thanks for your feedback.
+
+    Publications
+    PLOS Biology
+    PLOS Medicine
+    PLOS Computational Biology
+    PLOS Genetics
+    PLOS Pathogens
+    PLOS ONE
+    PLOS Neglected Tropical Diseases
+
+     
+    PLOS Climate
+    PLOS Digital Health
+    PLOS Global Public Health
+    PLOS Sustainability and Transformation
+    PLOS Water
+
+    Home
+    Blogs
+    Collections
+    Give feedback
+    LOCKSS
+
+    Privacy Policy
+    Terms of Use
+    Advertise
+    Media Inquiries
+    Contact
+
+PLOS PLOS is a nonprofit 501(c)(3) corporation, #C2354500, based in San Francisco, California, US
+ 

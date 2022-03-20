@@ -1,0 +1,519 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Document rdf:about="https://www.zotero.org/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Zotero | Your personal research assistant</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.zotero.org/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 03:51:42</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="#item_20">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Zotero | Your personal research assistant</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.zotero.org/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 03:51:45</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="#item_21">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Zotero | Your personal research assistant</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.zotero.org/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 03:51:45</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Article rdf:about="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216492">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1932-6203"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hassan</foaf:surname>
+                        <foaf:givenName>Bilal</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahmed</foaf:surname>
+                        <foaf:givenName>Ramsha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Bo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Noor</foaf:surname>
+                        <foaf:givenName>Ayesha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hassan</foaf:surname>
+                        <foaf:givenName>Zahid ul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_23"/>
+        <link:link rdf:resource="#item_24"/>
+        <link:link rdf:resource="#item_25"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Blindness</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Cataract surgery</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cataracts</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Eye diseases</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Global health</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Pakistan</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Vision</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Visual impairments</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A comprehensive study capturing vision loss burden in Pakistan (1990-2025): Findings from the Global Burden of Disease (GBD) 2017 study</dc:title>
+        <dcterms:abstract>This study aims to provide estimates, trends and projections of vision loss burden in Pakistan from 1990 to 2025. Global Burden of Diseases, Injuries, and Risk Factors Study (GBD 2017) was used to observe the vision loss burden in terms of prevalence and Years Lived with Disability (YLDs). As of 2017, out of 207.7 million people in Pakistan, an estimated 1.12 million (95% Uncertainty Interval [UI] 1.07–1.19) were blind (Visual Acuity [VA] &lt;3/60), 1.09 million [0.93–1.24] people had severe vision loss (3/60≤VA&lt;6/60) and 6.79 million [6.00–7.74] people had moderate vision loss (6/60≤VA&lt;6/18). Presbyopia was found to be the most common ocular condition that affected an estimated 12.64 million [11.94–13.41] people (crude prevalence 6.08% [5.75–6.45]; 61% female). In terms of age-standardized YLDs rate, Pakistan is ranked fourth among other South Asian countries and twenty-first among other 42 low-middle income countries (classified by World Bank), with 552.98 YLDs [392.98–752.95] per 100,000. Compared with 1990, all-age YLDs count of blindness and vision impairment increased by 55% in 2017, which is the tenth highest increase among major health loss causes (such as dietary iron deficiency, headache disorders, low back pain etc.) in Pakistan. Moreover, our statistics show an increase in vision loss burden by 2025 for which Pakistan needs to make more efforts to encounter the growing burden of eye diseases.</dcterms:abstract>
+        <dc:date>May 3, 2019</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>A comprehensive study capturing vision loss burden in Pakistan (1990-2025)</z:shortTitle>
+        <z:libraryCatalog>PLoS Journals</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216492</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 04:43:17</dcterms:dateSubmitted>
+        <dc:description>Publisher: Public Library of Science</dc:description>
+        <bib:pages>e0216492</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1932-6203">
+        <prism:volume>14</prism:volume>
+        <dc:title>PLOS ONE</dc:title>
+        <dc:identifier>DOI 10.1371/journal.pone.0216492</dc:identifier>
+        <prism:number>5</prism:number>
+        <dcterms:alternative>PLOS ONE</dcterms:alternative>
+        <dc:identifier>ISSN 1932-6203</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_23">
+        <rdf:value>&lt;blockquote&gt;As of 2017, out of 207.7 million people in Pakistan, an estimated 1.12 million (95% Uncertainty Interval [UI] 1.07–1.19) were blind (Visual Acuity [VA] &lt;3/60), 1.09 million [0.93–1.24] people had severe vision loss (3/60≤VA&lt;6/60) and 6.79 million [6.00–7.74] people had moderate vision loss (6/60≤VA&lt;6/18)&lt;/blockquote&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_24">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/24/Hassan et al. - 2019 - A comprehensive study capturing vision loss burden.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0216492&amp;type=printable</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 04:43:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_25">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/25/article.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216492</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 04:43:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_26">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>14</prism:volume>
+                <dc:title>PLOS ONE</dc:title>
+                <dc:identifier>DOI 10.1371/journal.pone.0216492</dc:identifier>
+                <prism:number>5</prism:number>
+                <dcterms:alternative>PLOS ONE</dcterms:alternative>
+                <dc:identifier>ISSN 1932-6203</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hassan</foaf:surname>
+                        <foaf:givenName>Bilal</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahmed</foaf:surname>
+                        <foaf:givenName>Ramsha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Bo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Noor</foaf:surname>
+                        <foaf:givenName>Ayesha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hassan</foaf:surname>
+                        <foaf:givenName>Zahid ul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_27"/>
+        <link:link rdf:resource="#item_28"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Blindness</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Cataract surgery</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cataracts</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Eye diseases</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Global health</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Pakistan</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Vision</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Visual impairments</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A comprehensive study capturing vision loss burden in Pakistan (1990-2025): Findings from the Global Burden of Disease (GBD) 2017 study</dc:title>
+        <dcterms:abstract>This study aims to provide estimates, trends and projections of vision loss burden in Pakistan from 1990 to 2025. Global Burden of Diseases, Injuries, and Risk Factors Study (GBD 2017) was used to observe the vision loss burden in terms of prevalence and Years Lived with Disability (YLDs). As of 2017, out of 207.7 million people in Pakistan, an estimated 1.12 million (95% Uncertainty Interval [UI] 1.07–1.19) were blind (Visual Acuity [VA] &lt;3/60), 1.09 million [0.93–1.24] people had severe vision loss (3/60≤VA&lt;6/60) and 6.79 million [6.00–7.74] people had moderate vision loss (6/60≤VA&lt;6/18). Presbyopia was found to be the most common ocular condition that affected an estimated 12.64 million [11.94–13.41] people (crude prevalence 6.08% [5.75–6.45]; 61% female). In terms of age-standardized YLDs rate, Pakistan is ranked fourth among other South Asian countries and twenty-first among other 42 low-middle income countries (classified by World Bank), with 552.98 YLDs [392.98–752.95] per 100,000. Compared with 1990, all-age YLDs count of blindness and vision impairment increased by 55% in 2017, which is the tenth highest increase among major health loss causes (such as dietary iron deficiency, headache disorders, low back pain etc.) in Pakistan. Moreover, our statistics show an increase in vision loss burden by 2025 for which Pakistan needs to make more efforts to encounter the growing burden of eye diseases.</dcterms:abstract>
+        <dc:date>May 3, 2019</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>A comprehensive study capturing vision loss burden in Pakistan (1990-2025)</z:shortTitle>
+        <z:libraryCatalog>PLoS Journals</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216492</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 04:43:58</dcterms:dateSubmitted>
+        <dc:description>Publisher: Public Library of Science</dc:description>
+        <bib:pages>e0216492</bib:pages>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_27">
+        <rdf:value>&lt;blockquote&gt;As of 2017, out of 207.7 million people in Pakistan, an estimated 1.12 million (95% Uncertainty Interval [UI] 1.07–1.19) were blind (Visual Acuity [VA] &amp;lt;3/60), 1.09 million [0.93–1.24] people had severe vision loss (3/60≤VA&amp;lt;6/60) and 6.79 million [6.00–7.74] people had moderate vision loss (6/60≤VA&amp;lt;6/18)&lt;/blockquote&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_28">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/28/Hassan et al. - 2019 - A comprehensive study capturing vision loss burden.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0216492&amp;type=printable</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 04:44:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.bemyeyes.com/languages">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_30"/>
+        <dc:title>Translation Kit</dc:title>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.bemyeyes.com/languages</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 05:33:44</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_30">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/30/languages.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.bemyeyes.com/languages</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 05:33:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.bemyeyes.com/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Be My Eyes - See the world together</dc:title>
+        <dcterms:abstract>Whether you need a pair of sharp eyes or have some sight to lend, Be My Eyes is a simple, free tool to help people see the world better, together.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.bemyeyes.com/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 05:38:15</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.bemyeyes.com/about">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_33"/>
+        <dc:title>Our story</dc:title>
+        <dcterms:abstract>Small acts of kindness with global impact. Read about how Be My Eyes came to be the global community it is today.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.bemyeyes.com/about</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 05:38:22</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_33">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/33/about.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.bemyeyes.com/about</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 05:38:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://blindhelp.net/software/sullivan-plus-visually-impaired-and-low-vision">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_35"/>
+        <dc:title>Sullivan plus for visually impaired and low vision | Blind Help Project</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://blindhelp.net/software/sullivan-plus-visually-impaired-and-low-vision</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 05:46:03</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_35">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/35/sullivan-plus-visually-impaired-and-low-vision.html"/>
+        <dc:title>Sullivan plus for visually impaired and low vision | Blind Help Project</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://blindhelp.net/software/sullivan-plus-visually-impaired-and-low-vision</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 05:46:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="#item_36">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_37"/>
+        <dc:title>Our story</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.bemyeyes.com/about</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 07:20:34</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_37">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/37/about.html"/>
+        <dc:title>Our story</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.bemyeyes.com/about</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 07:20:39</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="#item_38">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Our story</dc:title>
+        <dcterms:abstract>Small acts of kindness with global impact. Read about how Be My Eyes came to be the global community it is today.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.bemyeyes.com/about</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 07:21:22</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://play.google.com/store/apps/details?id=tuat.kr.sullivan&amp;hl=en&amp;gl=PK">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_40"/>
+        <dc:title>Sullivan+ (blind, low vision) - Apps on Google Play</dc:title>
+        <dcterms:abstract>Discover the world with Sullivan+. Let it become your eyes to seeing the world.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://play.google.com/store/apps/details?id=tuat.kr.sullivan&amp;hl=en&amp;gl=PK</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 08:12:55</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_40">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/40/details.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://play.google.com/store/apps/details?id=tuat.kr.sullivan</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 08:13:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="#item_41">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Sullivan+ (blind, low vision) - Apps on Google Play</dc:title>
+        <dcterms:abstract>Discover the world with Sullivan+. Let it become your eyes to seeing the world.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://play.google.com/store/apps/details?id=tuat.kr.sullivan&amp;hl=en&amp;gl=PK</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 08:38:49</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.reveal&amp;hl=en&amp;gl=PK">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_43"/>
+        <dc:title>Lookout - Assisted vision - Apps on Google Play</dc:title>
+        <dcterms:abstract>A visual assistant to help people with vision loss explore the world</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.reveal&amp;hl=en&amp;gl=PK</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 08:38:57</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_43">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/43/details.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.reveal</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-16 08:39:05</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_3">
+        <dc:title>10%</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_4"/>
+        <dcterms:hasPart rdf:resource="#collection_5"/>
+        <dcterms:hasPart rdf:resource="#collection_6"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_4">
+        <dc:title>introduction</dc:title>
+        <dcterms:hasPart rdf:resource="https://www.zotero.org/"/>
+        <dcterms:hasPart rdf:resource="#item_20"/>
+        <dcterms:hasPart rdf:resource="#item_21"/>
+        <dcterms:hasPart rdf:resource="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216492"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_5">
+        <dc:title>Problem Statement</dc:title>
+        <dcterms:hasPart rdf:resource="#item_26"/>
+        <dcterms:hasPart rdf:resource="https://www.bemyeyes.com/languages"/>
+        <dcterms:hasPart rdf:resource="https://www.bemyeyes.com/"/>
+        <dcterms:hasPart rdf:resource="https://www.bemyeyes.com/about"/>
+        <dcterms:hasPart rdf:resource="https://blindhelp.net/software/sullivan-plus-visually-impaired-and-low-vision"/>
+        <dcterms:hasPart rdf:resource="#item_36"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_6">
+        <dc:title>related systems</dc:title>
+        <dcterms:hasPart rdf:resource="#item_38"/>
+        <dcterms:hasPart rdf:resource="https://play.google.com/store/apps/details?id=tuat.kr.sullivan&amp;hl=en&amp;gl=PK"/>
+        <dcterms:hasPart rdf:resource="#item_41"/>
+        <dcterms:hasPart rdf:resource="https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.reveal&amp;hl=en&amp;gl=PK"/>
+    </z:Collection>
+</rdf:RDF>
